@@ -64,6 +64,6 @@ nnoremap <F3> :nohlsearch<CR>
 "nnoremap <leader>wq :wq<CR>
 " <leader> is a special key, often mapped to space or comma. Set it here:
 "let mapleader = " "
-
+color elflord
 " End of .vimrc
 " ====================================================================
